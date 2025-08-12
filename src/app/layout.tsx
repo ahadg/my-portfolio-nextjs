@@ -11,8 +11,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Safeer Ahmad - Full Stack Developer Portfolio",
-  description: "Explore the portfolio of Safeer Ahmad, a Full Stack Developer specializing in React, Next.js, and Node.js. Showcasing projects, skills, and expertise in web development and software engineering.",
+  title: "Muhammad Ahad - Full Stack Developer Portfolio",
+  description: "Explore the portfolio of Muhammad Ahad, a Full Stack Developer specializing in React, Next.js, and Node.js. Showcasing projects, skills, and expertise in web development and software engineering.",
 };
 
 
